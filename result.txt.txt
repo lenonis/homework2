@@ -1,0 +1,64 @@
+>> work2
+
+me =
+
+     8
+
+
+char =
+
+    'Johnson had never been up in an aerophane before and he had read a lot about air accidents, so one day when a friend offered to take him for a ride in his own small phane, Mr. Johnson was very worried about accepting. 
+     Finally, however, his friend persuaded him that it was very safe, and Johnson boarded the plane.'
+
+
+char_num =
+
+   316
+
+
+k =
+
+     0
+
+
+k =
+
+    60
+
+
+ans =
+
+     0
+
+
+me =
+
+     8
+
+
+char =
+
+    'Johnson had never been up in an aerophane before and he had read a lot about air accidents, so one day when a friend offered to take him for a ride in his own small phane, Mr. Johnson was very worried about accepting. 
+     Finally, however, his friend persuaded him that it was very safe, and Johnson boarded the plane.'
+
+
+char_num =
+
+   316
+
+
+j =
+
+     0
+
+
+j =
+
+     3
+
+
+ans =
+
+     0
+
+>> 
